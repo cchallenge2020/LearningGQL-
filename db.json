@@ -1,0 +1,33 @@
+{
+    "users":[
+        {
+            "id": "23",
+            "firstName": "Rock",
+            "age": 24,
+            "companyId": "1"
+        },
+        {
+            "id": "41",
+            "firstName": "Sam",
+            "age": 24,
+            "companyId":"2"
+        },
+        {
+            "id": "37",
+            "firstName": "Max",
+            "age": 20,
+            "companyId":"1"
+        },
+        {
+            "id": "786",
+            "firstName":"ds",
+            "age": 101,
+            "companyId": "1"
+
+        }
+    ],
+    "companies":[
+        { "id":"1", "name": "Flipkart", "description":"An E-Commerce company"},
+        { "id":"2", "name": "Google", "description":"A Search Engine"}
+    ]
+}
